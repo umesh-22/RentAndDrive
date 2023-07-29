@@ -21,9 +21,8 @@ h5 {
 h6 {
   font-size: 18px;
 }
-body{
+.bg{
   background-image: url("https://kartinkin.net/uploads/posts/2022-12/1672123746_kartinkin-net-p-romb-kartinka-dlya-detei-oboi-35.jpg");
- 
 }
  
 input[type='text'],
@@ -35,7 +34,7 @@ textarea {
 }
  
 form {
-    background-color: rgb(255, 255, 255);
+  background-color: rgba(170, 165, 165, 0.705);
   box-sizing: border-box;
   width: 40%;
   height: auto;
@@ -45,7 +44,12 @@ form {
   display: grid;
   margin: auto; 
 }
-
+.frm{
+  padding-top: 20px;
+}
+.optionQus{
+  margin-top: 15px;
+}
 @media (max-width: 750px){
   form{
     width: 90%;
