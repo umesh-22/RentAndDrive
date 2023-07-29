@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form validation using HTML CSS & JS | CodeWithNepal</title>
+  <link rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+  <div class="wrapper">
+    <header>Host Login</header>
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+      <div class="field email">
+        <div class="input-area">
+          <input type="text" placeholder="Enter Email" formControlName="email">
+          </div>
+        <div class="error error-txt">Email can't be blank</div>
+      </div>
+      <div class="field password">
+        <div class="input-area">
+          <input type="password" placeholder="Password" formControlName="pass">
+          </div>
+        <div class="error error-txt">Password can't be blank</div>
+      </div>
+      <div class="pass-txt"><a href="#">Forgot password?</a></div>
+      <!-- <button type="submit" class="btn btn-outline-primary" >Login</button> -->
+      <input type="submit" value="Login">
+    </form>
+    <div class="sign-txt">Not yet member?
+      <button mat-raised-button color="warn">  <a routerLink="/hostRegister">Register now</a> </button></div>
+  </div>
+
+  
+</body>
+</html>

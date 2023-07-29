@@ -1,0 +1,204 @@
+
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 26px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 18px;
+}
+body{
+    margin-top: 0px;
+ }
+  #root {
+    padding: 30px;
+  }
+  
+  .register-form {
+    max-width: 350px;
+    margin: auto;
+  }
+h1{
+    text-align: center;
+ 
+}  
+ 
+.button1{background-color: yellow;color: black;}
+.button2{background-color: blue;}
+.host-cnt-1{
+    margin-top: 50px;
+}
+
+.host-cnt-1 h2{
+    font-weight: bold;
+
+}
+.host-cnt-1 p{
+    font-size: 18px;
+}
+
+.host-cnt-1  #points{
+    margin-top: 30px;
+}
+.cntBtn {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+   
+}
+.cntBtn button{
+    padding: 5px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: linear-gradient(to right, rgb(39, 176, 218) , steelblue); 
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+
+.formcnt{
+    margin-top: -20px;
+   background-image: url("https://kartinkin.net/uploads/posts/2022-12/1672123746_kartinkin-net-p-romb-kartinka-dlya-detei-oboi-35.jpg");
+}
+
+.register-form{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(115, 122, 128, 0.753);
+    border-radius: 20px;
+}
+#whole-contain-2{
+    margin-top: 50px;
+}
+#contain-2 h2{
+
+    font-weight: bold;
+}
+
+#contain-2 p{
+    text-align: justify;
+    font-size: 16px;
+}
+img{
+    width: 80%;
+}
+ 
+    .earnBtn {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+       
+    }
+    .earnBtn button{
+        padding: 5px;
+        border: none;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-image: linear-gradient(to right, rgb(39, 176, 218) , steelblue); 
+        color: white;
+        font-size: 20px;
+        border-radius: 20px;
+        
+    } 
+  
+    .instrucCard{
+       text-align: center;
+        background-color: white;
+        height: auto;
+        width: 70%;
+        border: 1px solid rgb(159, 219, 230);
+        border-radius: 5px;
+             margin-top: 40px;
+             margin-bottom: 30px;
+    }
+    #container-2{
+        text-align: center;
+    }
+    #container-2 h3{
+        color: steelblue;
+        font-weight: bold;
+    }
+    .instrucCard p{
+        padding: 10px;
+        font-size: 18px;
+    }
+    #container-3{
+        margin-top: 40px;
+    }
+
+    #container-3 p{
+        text-align: justify;
+        font-size: 18px;
+        color: grey;
+    }
+    #container-3 h3{
+        font-weight: bold;
+        color: steelblue;
+    }
+    #container-3 .img{
+        width: 100%;
+        height: auto;
+        background-size: cover;
+        /* -image: url("https://static.toiimg.com/thumb/msid-76545178,width-400,resizemode-4/76545178.jpg"); */
+    }
+
+    #container-3 h6{
+        text-align: justify;
+        font-size: 20px;
+        color: cadetblue;
+
+    }
+
+    #container-4 {
+        text-align:center;
+        margin-top: 40px;
+        justify-items: center;
+        align-items: center;
+        width: 70%;
+        
+    }
+    #container-5{
+        margin-top: 40px;
+    }
+    #container-5 h2{
+        font-weight: bold;
+        color: steelblue;
+        text-align: justify;
+        
+    }
+    #container-5 p{
+        font-size: 18px;
+        text-align: justify;
+    }
+    #container-5 .cnt{
+        margin-top: 40px;
+      margin-left: 80px;
+    }
+
+    .btm{
+        margin-top: 40px;
+        padding: 40px;
+        height:auto;
+        background-color: rgb(53, 53, 52);
+        color: rgb(211, 208, 208);
+    }
+    .contactcnt{
+        margin-top: 40px;
+        font-size: 18px;
+    }
+    .fmsection{
+        margin-top: 40px;
+    }

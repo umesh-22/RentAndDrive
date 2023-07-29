@@ -1,0 +1,712 @@
+{
+  "chennai": [
+    {
+      "id": 1,
+      "carName": "Maruti Swift",
+      "price": "6480",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "seater": 5,
+      "baggage": "2",
+      "image": "https://static.autox.com/uploads/2021/02/Maruti-Suzuki-Swift-Image-7-.jpg"
+    },
+    {
+      "id": 2,
+      "carName": "Maruti Baleno",
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Maruti-Suzuki-Baleno-040320222001.jpg&w=373&h=245&q=75&c=1",
+      "price": "7161",
+      "type": "Compact",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Maruti is known among people for its range of power packed economical vehicles, and one such model which has become really popular is the Maruti Baleno. If you’re looking at a stylish hatchback, which is classy as well, then Baleno would be the perfect fit for your next road trip. This car has a sporty look and the interiors are really spacious as well. This hatchback has a seating capacity of 4+1, and the ample amount of space here makes you relax comfortably on long road journeys. This is a car with pretty much everything you would want from a premium hatchback, and offers you great mileage too. If you’re planning to rent it out for a few days, then this is one of the best options."
+    },
+    {
+      "id": 3,
+      "carName": "Mahindra Scorpio",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202005/Mahindra_Scorpio_BS6_Napoli_Bl.jpeg?size=690:388",
+      "price": "9894",
+      "type": "MUV",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "When you are planning to go for a road trip on the hills of North India, there is nothing better than hiring an SUV. A Mahindra Scorpio serves you well if you love driving a powerful car, which gives you rear wheel drive that is suitable for the curvy mountain roads. With 6+1 seats, you can drive with your entire family. If you go by cab, you have to accommodate a driver as well, but you can occupy that driver's seat with a Car Rental. While sitting in a Scorpio, you get better visibility of the road, and an SUV is any day more stable than smaller cars. The car is also safer than a tiny hatchback. You can conveniently dump all your bags in the back seat and yet sit comfortably throughout the journey."
+    },
+    {
+      "id": 4,
+      "carName": "Hyundai Creta",
+      "image": "https://imgd-ct.aeplcdn.com/1280x720/n/cw/ec/141143/creta-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "10230",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai brand has been in India for a long time, and people are just not ready to let it go. You cannot have enough a car from Hyundai because of the peace of mind it brings with it. The Hyundai Creta is another name for reliability and comfort. This gorgeous looking compact SUV has almost every feature that comes in a regular SUV. The proportionately balanced interior of Creta makes it a comfortable car for long road trips. For driving a vehicle on the Indian roads, great pickup is crucial in a car, which is definitely there in Hyundai Creta. You can drive the car on all sorts of hills and terrains with ease and never feel tired. Whether you are there in the city or on the outskirts, whether you want it in the diesel or petrol variant, Hyundai Creta is sure to impress you."
+    },
+    {
+      "id": 5,
+      "carName": "Maruti Ertiga Hybrid",
+      "image": "https://imgd.aeplcdn.com/1280x720/n/cy64m3a_1581199.jpg?q=75",
+      "price": "12336",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "baggage": "2",
+      "seater": "7",
+      "description": "Until Maruti Ertiga arrived in India, the compact SUV segment of vehicles was virtually non-existent in the Indian automobile market. This car is quite perfect for the extended Indian families, in which people can sit comfortably in the seven seats of the spacious cabin. The fuel-efficient engine of Ertiga gives impressive mileage, which is an essential factor on the congested Indian roads. Only a proficient driver knows the importance of small turning radius because it is crucial to turn around the car in traffic jams. Concerning safety, even the third row of Maruti Ertiga offers a three-point seatbetls, unlike the lap belts. The light tones of the cabin make it look lighter and brighter than other cars, and the steering-mounted controls give in many bonus points. This no-nonsense car is just perfect for a road trip, no matter where you want to go."
+    },
+    {
+      "id": 6,
+      "carName": "Maruti Ciaz",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/f2r6isa_1467592.jpg?q=75",
+      "price": "8168",
+      "type": "Standard",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "baggage": "3",
+      "seater": "5",
+      "description": "Maruti Ciaz is the widest and longest car in the sedan segment of the brand, which is a plus owing to the grand space it gives inside the vehicle. Among the many compact sedans are there in the market, the Maruti Ciaz stands taller than other vehicles. Maruti has never failed to deliver excellent fuel efficiency, which is the same with Ciaz as well. The cabin of the car is the most spacious one among all Maruti cars till date, and even tall people can sit comfortably in the seats because of the expansive legroom. Since a road trip in a car is all about comfort, Maruti Ciaz knows how to do it. You have a power outlet and AC vents in the rear area as well. It is just for the comfort of the people that Maruti has given a boot that is larger than a compact sedan, and you can stuff every possible thing in it for a convenient road trip. Concerning reliability, Maruti is the only brand that offers service stations all over the country. Even if something goes wrong with your car in a rare case, the help is easy to seek."
+    },
+    {
+      "id": 7,
+      "carName": "Toyota Innova Crysta",
+      "image": "https://imgd-ct.aeplcdn.com/0x0/n/cw/ec/20623/innova-crysta-exterior-right-front-three-quarter.jpeg?q=75",
+      "price": "13644",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "Since the time Innova Crysta was launched in the Indian market, people have showered it with love. This seven-seater car is perfect for a family road trip. Imposing new front silhouettes, stunning diamond-cut alloy wheels, crafted leather seats, Innova's legendary capabilities is power punched in Toyota Crysta. Its exterior design spells dominance and the well-appointed interior is steeped in luxury and elegance. The car comes with a well-equipped cabin, a sturdy engine, feature-filled interior, seven airbags, and tremendous fuel efficiency. All these things are crucial for a long road trip so that you do not have to fret over petty things.The spacious 7-seater car rental with its unequalled space and plushness offers you unmatched safety, connectivity, refined power and an unrivalled driving experience."
+    },
+    {
+      "id": 8,
+      "carName": "Morris Astor",
+      "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/51940/astor-exterior-right-front-three-quarter.jpeg?isig=0",
+      "price": "10230",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "baggage": "3",
+      "seater": "5",
+      "description": "The MG Astor's red cabin, fittingly called Sangria, is now available in the one-below-top Sharp trim of the SUV. Previously, you could pick up the red interior theme only in the top-spec Savvy trim. It carries a premium of Rs 10,000 over the Ivory/Black interior colour in the naturally aspirated petrol-powered Sharp variants, while there is no additional cost for the turbo-petrol variant. The Astor is MG's compact SUV rivalling stalwarts like the Maruti Suzuki Grand Vitara and Hyundai Creta.The MG Astor comes equipped with two powertrains: a 110PS/144Nm 1.5-litre naturally aspirated petrol, and a 140PS/220Nm 1.3-litre turbo-petrol unit. Transmission options include a 6-speed manual and an 8-speed CVT for the NA motor and a 6-speed automatic for the turbo-petrol unit. The Astor is 4323mm long, 1809mm wide, 1650mm tall, and has a 2585mm wheelbase.MG packs the Astor with segment-first autonomous driver aid kit, which includes forward collision warning, autonomous emergency braking, adaptive cruise control, lane-keeping assist, and high-beam assist. Other features include a 10.1-inch touchscreen infotainment system with Apple CarPlay and Android Auto and connected car tech, a 7-inch digital driver display, AI-driven features with voice command-based functions, a panoramic sunroof, a 6-way powered driver seat, and automatic climate control. Safety is taken care of with six airbags, ABS with EBD, ESP, brake assist, a 360-degree camera, traction control, hill hold/descent control, and disc brakes on all wheels."
+    },
+    {
+      "id": 9,
+      "carName": "Toyota Fortuner",
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=75",
+      "price": "12500",
+      "type": "SUV",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "If any of your friends have owned or driven a Toyota Fortuner, you must be aware of the top-notch quality of this beast of a car. The Fortuner is an image-builder vehicle, which makes people roll their eyes when you drive it on the road. It will be just too less to say that the Toyota Fortuner is just so perfect for a road trip, even on harsh terrains. The spacious cabin of the car is comfortable to travel for a long time. AC vents and charging points in each row of the vehicle make the journey tremendously convenient. The tailgate of the Fortuner operates electrically, which is a bonus point for the passengers sitting in the last seat. The six-speed automatic gearbox lets you shift gears manually, as well as, automatically, which is a rare feature for sure. The braking system and other safety features of the Toyota Fortuner are impressive, and they play an important role when you are on the road for a long time."
+    }
+  ],
+  "mumbai": [
+    {
+      "id": 1,
+      "carName": "Renault Kiger",
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Renault-Kiger-040320211942.jpg&w=730&h=484&q=75&c=1 ",
+      "price": "8775",
+      "type": "Standard",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Go where your curiosity takes you with Renault Kiger.Its stunning yet muscular SUV stance is crafted to complement your free spirit. While the sporty performance, smart interiors and enhanced safety features deliver a perfect balance of power and comfort. So, take the wheel and chase new experiences. "
+    },
+    {
+      "id": 2,
+      "carName": "Mahindra Xuv 500 W10",
+      "image": "https://imgd.aeplcdn.com/1280x720/cw/specialVersions/4085.jpg?v=20180410061910&q=75 ",
+      "price": "8480",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": " The stylish beast with its suspension mechanism improves the ride quality for the passengers, especially when you are travelling on the challenging roads of India. Not looking to make huge investments right now? Mahindra XUV 500 monthly rental is much more economical than a cab because no driver is there to ask for his service, food, or lodging. You can enjoy your privacy with family and friends in the car right from the moment your vehicle is delivered to your doorstep. The Car Rentals from MyChoize are available at reasonable prices along with no cap on kilometers you can drive. Take your car for as much distance as you want as there is no penalty on distance covered beyond a limit."
+    },
+    {
+      "id": 3,
+      "carName": "Toyota Fortuner",
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=75",
+      "price": "11500",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "If any of your friends have owned or driven a Toyota Fortuner, you must be aware of the top-notch quality of this beast of a car. The Fortuner is an image-builder vehicle, which makes people roll their eyes when you drive it on the road. It will be just too less to say that the Toyota Fortuner is just so perfect for a road trip, even on harsh terrains. The spacious cabin of the car is comfortable to travel for a long time. AC vents and charging points in each row of the vehicle make the journey tremendously convenient. The tailgate of the Fortuner operates electrically, which is a bonus point for the passengers sitting in the last seat. The six-speed automatic gearbox lets you shift gears manually, as well as, automatically, which is a rare feature for sure. The braking system and other safety features of the Toyota Fortuner are impressive, and they play an important role when you are on the road for a long time."
+    },
+    {
+      "id": 4,
+      "carName": "Maruti Ciaz",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/f2r6isa_1467592.jpg?q=75",
+      "price": "7980",
+      "type": "Standard",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "baggage": "3",
+      "seater": "5",
+      "description": "Maruti Ciaz is the widest and longest car in the sedan segment of the brand, which is a plus owing to the grand space it gives inside the vehicle. Among the many compact sedans are there in the market, the Maruti Ciaz stands taller than other vehicles. Maruti has never failed to deliver excellent fuel efficiency, which is the same with Ciaz as well. The cabin of the car is the most spacious one among all Maruti cars till date, and even tall people can sit comfortably in the seats because of the expansive legroom. Since a road trip in a car is all about comfort, Maruti Ciaz knows how to do it. You have a power outlet and AC vents in the rear area as well. It is just for the comfort of the people that Maruti has given a boot that is larger than a compact sedan, and you can stuff every possible thing in it for a convenient road trip. Concerning reliability, Maruti is the only brand that offers service stations all over the country. Even if something goes wrong with your car in a rare case, the help is easy to seek."
+    },
+    {
+      "id": 5,
+      "carName": "Tata Harrier",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/306962358/OC/WO/QO/189266364/tata-harrier-xm-car-500x500.jpg",
+      "price": "9980",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Harrier is equipped with a 10.25-inch touchscreen infotainment system with Android Auto and Apple CarPlay, a 7-inch digital driver’s display, a 6-way power-adjustable driver seat with memory and welcome function, a panoramic sunroof, wireless phone charging and rain-sensing wipers.Safety: It gets up to 6 airbags, ABS with EBD, electronic stability program (standard across all variants), a 360-degree camera, hill-hold and hill-descent control. It now also features advanced driver-assistance systems (ADAS) functionalities like forward collision warning, auto emergency braking and blind spot detection."
+    },
+    {
+      "id": 6,
+      "carName": "Hyundai Creta",
+      "image": "https://imgd-ct.aeplcdn.com/1280x720/n/cw/ec/141143/creta-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "10230",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai brand has been in India for a long time, and people are just not ready to let it go. You cannot have enough a car from Hyundai because of the peace of mind it brings with it. The Hyundai Creta is another name for reliability and comfort. This gorgeous looking compact SUV has almost every feature that comes in a regular SUV. The proportionately balanced interior of Creta makes it a comfortable car for long road trips. For driving a vehicle on the Indian roads, great pickup is crucial in a car, which is definitely there in Hyundai Creta. You can drive the car on all sorts of hills and terrains with ease and never feel tired. Whether you are there in the city or on the outskirts, whether you want it in the diesel or petrol variant, Hyundai Creta is sure to impress you."
+    },
+    {
+      "id": 7,
+      "carName": "Hyundai Elite I20",
+      "image": "https://imgd.aeplcdn.com/1200x900/cw/ec/38332/Hyundai-Elite-i20-Right-Front-Three-Quarter-148187.jpg?wm=0&q=75",
+      "price": "6230",
+      "type": "Compact",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai i20 is an amazingly compact hatchback, and would work wonders if you are 3-4 friends planning to take a short road trip. Not only is it really comfortable to sit in for hours, but is also the most stylish hatchback. The comfort of this car is amazing, and if we talk about the interiors then the seats are sporty, and provides you good back support. Its smooth suspensions make the drive really commendable, so if you’re planning to rent it out for a few days, then this is a great option. Plus the fabulous look, great acceleration as well as the very well-tuned engines makes it a reliable option."
+    },
+    {
+      "id": 8,
+      "carName": "Hyundai Xcent",
+      "image": "https://imgd-ct.aeplcdn.com/1280x720/cw/ec/12657/Hyundai-Xcent-Right-Front-Three-Quarter-94095.jpg?wm=0&q=75",
+      "price": "7070",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai Xcent is a car that has won the trust of its users ever since it was launched in India. The initial version was already packed with features, but the newer version comes with even more comfort features. The sturdy yet soft exterior of the Xcent instantly appeals to anyone who knows even a little about cars. It comes replete with features like large tail lamps, diamond-cut alloy wheels, dual tone dashboard, touchscreen infotainment system, height adjustment for the driver's seat, fabric upholstery, glove-box cooling system, and steering mounted controls. The Hyundai Xcent is ergonomically designed, which you can judge by strategically placed button, cup-holders, and other similar features. The boot space in the car is good enough to store everything you will need on your vacation. When you travel in a vehicle like Hyundai Xcent, you don’t have to worry about anything from performance to a comfortable drive."
+    },
+    {
+      "id": 9,
+      "carName": "Mahindra TUV 300",
+      "image": "https://imgd-ct.aeplcdn.com/1200x900/cw/ec/39470/Mahindra-TUV300-Right-Front-Three-Quarter-155763.jpg?wm=0&q=75",
+      "price": "9230",
+      "type": "TUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "When you want to drive a vehicle that has a rolling definition of toughness and strength, you ought to test Mahindra TUV 300 at least once on a road trip. The Indian market is full of vehicles that promise excellent driving experience, but very few cars live up to their reputation. The Mahindra TUV 300 is a car that is not easy to intimidate because it is probably the most robust SUV in the country. When you are on a long road trip, you don't like to compromise on comfort, luxury, and safety; it is unlike going to a market to fetch groceries. With features like steering mounted controls, power windows, electrically adjustable mirrors, rear wiper, and rear AC vent, every passenger in the car can travel with immense comfort."
+    }
+  ],
+  "delhi": [
+    {
+      "id": 1,
+      "carName": "Mahindra TUV 300",
+      "image": "https://imgd-ct.aeplcdn.com/1200x900/cw/ec/39470/Mahindra-TUV300-Right-Front-Three-Quarter-155763.jpg?wm=0&q=75",
+      "price": "9230",
+      "type": "TUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "When you want to drive a vehicle that has a rolling definition of toughness and strength, you ought to test Mahindra TUV 300 at least once on a road trip. The Indian market is full of vehicles that promise excellent driving experience, but very few cars live up to their reputation. The Mahindra TUV 300 is a car that is not easy to intimidate because it is probably the most robust SUV in the country. When you are on a long road trip, you don't like to compromise on comfort, luxury, and safety; it is unlike going to a market to fetch groceries. With features like steering mounted controls, power windows, electrically adjustable mirrors, rear wiper, and rear AC vent, every passenger in the car can travel with immense comfort."
+    },
+    {
+      "id": 2,
+      "carName": "Hyundai Elite I20",
+      "image": "https://imgd.aeplcdn.com/1200x900/cw/ec/38332/Hyundai-Elite-i20-Right-Front-Three-Quarter-148187.jpg?wm=0&q=75",
+      "price": "6230",
+      "type": "Compact",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai i20 is an amazingly compact hatchback, and would work wonders if you are 3-4 friends planning to take a short road trip. Not only is it really comfortable to sit in for hours, but is also the most stylish hatchback. The comfort of this car is amazing, and if we talk about the interiors then the seats are sporty, and provides you good back support. Its smooth suspensions make the drive really commendable, so if you’re planning to rent it out for a few days, then this is a great option. Plus the fabulous look, great acceleration as well as the very well-tuned engines makes it a reliable option."
+    },
+    {
+      "id": 3,
+      "carName": "Renault Duster",
+      "image": "https://imgd.aeplcdn.com/0x0/cw/ec/22446/Renault-Duster-Exterior-118973.jpg?wm=0",
+      "price": "6230",
+      "type": "SUV",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "A decade ago, taking a hatchback for a road trip was the only resort for everyone, but the times are changing now. People want to drive sturdy cars on the mountains, but buying an SUV is not an option for everyone. A grand SUV is too tricky to drive in the city traffic but is excellent for a road trip. Maneuvering a compact SUV like Renault Duster is even easier when you have to drive on the curvy mountain roads. The enormous storage in the Duster combined with clean interiors and sleek exteriors is just the thing you would want for an extended road trip. The impressive fuel mileage gives Renault Duster bonus points since you will save more money than you will spend on a chauffeur-driven car."
+    },
+    {
+      "id": 4,
+      "carName": "Toyota Etios Liva",
+      "image": "https://imgd.aeplcdn.com/664x374/cw/ec/24898/Toyota-Etios-Liva-Exterior-127727.jpg?wm=0&q=75",
+      "price": "6830",
+      "type": "Compact",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "3",
+      "seater": "5",
+      "description": "When a reliable brand like Toyota backs a car, you don't need to look for any other vehicle for your road trips. Ask yourself, have you ever seen a Toyota car broken down on the highway? Probably never. This is what a car like Toyota Etios Liva gives you: dependability. The Liva is a bit sporty in its revamped exteriors. The multi-spoke alloy wheels speak volumes about the great looks. When you are traveling in the Etios Liva, you do get a simplistic cabin, which tends to the comfort of each passenger. The strategically placed door lock buttons, external mirrors, and headlamps make it convenient to access them. The cabin of the car offers excellent storage space, and the seats are comfortable enough to support the shoulders and under thighs for a relaxed ride."
+    },
+    {
+      "id": 5,
+      "carName": "Honda Amaze",
+      "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/45951/amaze-facelift-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "7100",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Amaze is the superhero car for Honda, and this sub-four meter car is everything you need for a convenient road trip. The tremendous amount of headspace and legroom give a lot of room to the passengers to relax. The ergonomically designed Honda Amaze lets you access every button and comfort feature while driving. It comes with features like touchscreen entertainment unit, automatic climate control, steering mounted controls, cruise control, audio controls, and a powerful AC. The boot space is undoubtedly helpful to store your luggage that does not disrupt your travel. The fuel efficiency of Honda Amaze is a bonus when you are on a long road trip. When it comes to the comfort of the rear passengers, most cars fail to provide luxury features. However, Honda has given attention to its passengers by offering a bottle and cup holder in the rear as well. With so many features in just one car, what else do you need to have an accomplished road trip?"
+    },
+    {
+      "id": 6,
+      "carName": "BMW 520D 2016",
+      "image": "https://imgd.aeplcdn.com/0x0/n/btng84a_1522157.jpg",
+      "price": "12300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The new BMW 5 Series was launched in March, but the 520d has only just arrived; its emissions of 129 g/km CO2, together with 57.6 mpg, are class-leading for a large executive saloon.Think back a few years and no-one would have thought that a car of this size would be able to achieve almost 60 mpg. The new 520d shows how successful BMW has been in revolutionising the efficiency of its cars – without any sacrifices in the driving experience.This is in large part due to BMW rolling out its EfficientDynamics technology on all of its models. The BMW 520d, which shares a new engine with the 320d EfficientDynamics , is the first 5 Series to come with Auto Start-Stop, which reduces the engine idle period when coming to a short stop. Brake Energy Regeneration, which recharges the vehicle’s battery during engine over-run, is part of the standard specification for all 5 Series saloons."
+    },
+    {
+      "id": 7,
+      "carName": "Mahindra Thar",
+      "image": "https://vehiclebaba.com/blog/wp-content/uploads/2023/02/Mahindra-Thar-price-in-nepal.png",
+      "price": "8980",
+      "type": "Off Road",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Mahindra Thar has 2 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2184 cc and 1497 cc while the Petrol engine is 1997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Thar has a mileage of 15.2 kmpl & Ground clearance of Thar is 226mm. The Thar is a 4 seater 4 cylinder car and has length of 3985mm, width of 1855mm and a wheelbase of 2450mm."
+    },
+    {
+      "id": 8,
+      "carName": "Mercedes-Benz E-Class",
+      "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/48067/s-class-exterior-right-front-three-quarter-3.jpeg?q=75",
+      "price": "13300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "3",
+      "seater": "5",
+      "description": "Latest Update: Mercedes has launched the 2021 E-Class facelift in India and you can read our launch report here.Mercedes-Benz E-Class Variants and Prices: The Mercedes-Benz E-Class is available in three variants: Expression, Exclusive and a new AMG Line. The first two can be had with a petrol or diesel engine whereas the last one can only be had with a diesel engine. They are priced between Rs 63.6 lakh and Rs 80.9 lakh (both ex-showroom India).Mercedes-Benz E-Class Engine and Transmission: The Expression and Exclusive variants of the E-Class can be had with a 2.0-litre petrol (E200) or diesel (E220d) engine. The petrol engine makes 197PS and 320Nm of torque and the diesel engine makes 194PS and 400Nm of torque. The AMG line variant is offered with a 3.0-litre inline-six-cylinder diesel engine that makes 286PS and 600Nm of torque. All three engines are mated to a 9-speed automatic transmission.Mercedes-Benz E-Class Features: The E-Class gets features like all LED lighting, a panoramic sunroof, air suspension (only for AMG Line), three-zone climate control, reclining rear seats, a 12.3-inch fully digital instrument cluster integrated with a touchscreen infotainment system of the same size, 64 colour ambient lighting, front and rear wireless charging pads, parking pilot with a 360-degree camera, and a 590W Burmester sound system. In terms of safety, there are 7 airbags onboard, an electronic stability program, attention assist, and active brake assist."
+    },
+    {
+      "id": 9,
+      "carName": "Audi a4",
+      "image": "https://imgd.aeplcdn.com/370x208/cw/ec/22613/Audi-A4-Right-Front-Three-Quarter-165483.jpg?wm=0&q=75",
+      "price": "12300",
+      "type": "Off Road",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The luxury sedan can be had in three variants: Premium, Premium Plus and Technology.Engine and Transmission: It is powered by the same 2-litre turbo-petrol engine (making 190PS and 320Nm) as the Q2 SUV. This unit is paired with a seven-speed DCT (dual-clutch automatic) and drives all four wheels.Features: Features on board the Audi A4 include a 10.1-inch touchscreen infotainment system with Android Auto and Apple CarPlay, a digital driver’s display, three-zone climate control, a 19-speaker B&O sound system, powered front seats and a sunroof.Safety: Its safety kit includes eight airbags, ABS with EBD, electronic stability control (ESC), all-wheel disc brakes, hill hold assist and a rear-view camera."
+    }
+  ],
+  "bangalore": [
+    {
+      "id": 1,
+      "carName": "Hyundai Xcent",
+      "image": "https://imgd-ct.aeplcdn.com/1280x720/cw/ec/12657/Hyundai-Xcent-Right-Front-Three-Quarter-94095.jpg?wm=0&q=75",
+      "price": "7070",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Hyundai Xcent is a car that has won the trust of its users ever since it was launched in India. The initial version was already packed with features, but the newer version comes with even more comfort features. The sturdy yet soft exterior of the Xcent instantly appeals to anyone who knows even a little about cars. It comes replete with features like large tail lamps, diamond-cut alloy wheels, dual tone dashboard, touchscreen infotainment system, height adjustment for the driver's seat, fabric upholstery, glove-box cooling system, and steering mounted controls. The Hyundai Xcent is ergonomically designed, which you can judge by strategically placed button, cup-holders, and other similar features. The boot space in the car is good enough to store everything you will need on your vacation. When you travel in a vehicle like Hyundai Xcent, you don’t have to worry about anything from performance to a comfortable drive."
+    },
+    {
+      "id": 2,
+      "carName": "Mercedes-Benz E-Class",
+      "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/48067/s-class-exterior-right-front-three-quarter-3.jpeg?q=75",
+      "price": "13300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "3",
+      "seater": "5",
+      "description": "Latest Update: Mercedes has launched the 2021 E-Class facelift in India and you can read our launch report here.Mercedes-Benz E-Class Variants and Prices: The Mercedes-Benz E-Class is available in three variants: Expression, Exclusive and a new AMG Line. The first two can be had with a petrol or diesel engine whereas the last one can only be had with a diesel engine. They are priced between Rs 63.6 lakh and Rs 80.9 lakh (both ex-showroom India).Mercedes-Benz E-Class Engine and Transmission: The Expression and Exclusive variants of the E-Class can be had with a 2.0-litre petrol (E200) or diesel (E220d) engine. The petrol engine makes 197PS and 320Nm of torque and the diesel engine makes 194PS and 400Nm of torque. The AMG line variant is offered with a 3.0-litre inline-six-cylinder diesel engine that makes 286PS and 600Nm of torque. All three engines are mated to a 9-speed automatic transmission.Mercedes-Benz E-Class Features: The E-Class gets features like all LED lighting, a panoramic sunroof, air suspension (only for AMG Line), three-zone climate control, reclining rear seats, a 12.3-inch fully digital instrument cluster integrated with a touchscreen infotainment system of the same size, 64 colour ambient lighting, front and rear wireless charging pads, parking pilot with a 360-degree camera, and a 590W Burmester sound system. In terms of safety, there are 7 airbags onboard, an electronic stability program, attention assist, and active brake assist."
+    },
+    {
+      "id": 3,
+      "carName": "Renault Duster",
+      "image": "https://imgd.aeplcdn.com/0x0/cw/ec/22446/Renault-Duster-Exterior-118973.jpg?wm=0",
+      "price": "6530",
+      "type": "SUV",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "A decade ago, taking a hatchback for a road trip was the only resort for everyone, but the times are changing now. People want to drive sturdy cars on the mountains, but buying an SUV is not an option for everyone. A grand SUV is too tricky to drive in the city traffic but is excellent for a road trip. Maneuvering a compact SUV like Renault Duster is even easier when you have to drive on the curvy mountain roads. The enormous storage in the Duster combined with clean interiors and sleek exteriors is just the thing you would want for an extended road trip. The impressive fuel mileage gives Renault Duster bonus points since you will save more money than you will spend on a chauffeur-driven car."
+    },
+    {
+      "id": 4,
+      "carName": "Tata Harrier",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/306962358/OC/WO/QO/189266364/tata-harrier-xm-car-500x500.jpg",
+      "price": "9180",
+      "type": "MUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Harrier is equipped with a 10.25-inch touchscreen infotainment system with Android Auto and Apple CarPlay, a 7-inch digital driver’s display, a 6-way power-adjustable driver seat with memory and welcome function, a panoramic sunroof, wireless phone charging and rain-sensing wipers.Safety: It gets up to 6 airbags, ABS with EBD, electronic stability program (standard across all variants), a 360-degree camera, hill-hold and hill-descent control. It now also features advanced driver-assistance systems (ADAS) functionalities like forward collision warning, auto emergency braking and blind spot detection."
+    },
+    {
+      "id": 5,
+      "carName": "Toyota Fortuner",
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=75",
+      "price": "11500",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "If any of your friends have owned or driven a Toyota Fortuner, you must be aware of the top-notch quality of this beast of a car. The Fortuner is an image-builder vehicle, which makes people roll their eyes when you drive it on the road. It will be just too less to say that the Toyota Fortuner is just so perfect for a road trip, even on harsh terrains. The spacious cabin of the car is comfortable to travel for a long time. AC vents and charging points in each row of the vehicle make the journey tremendously convenient. The tailgate of the Fortuner operates electrically, which is a bonus point for the passengers sitting in the last seat. The six-speed automatic gearbox lets you shift gears manually, as well as, automatically, which is a rare feature for sure. The braking system and other safety features of the Toyota Fortuner are impressive, and they play an important role when you are on the road for a long time."
+    },
+    {
+      "id": 6,
+      "carName": "Maruti Swift",
+      "image": "https://static.autox.com/uploads/2021/02/Maruti-Suzuki-Swift-Image-7-.jpg",
+      "price": "6480",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Why do people still prefer Maruti Swift over other cars? Ask yourself, and you will find that this car has created a positive reputation for itself since the time it was launched in India. People who own this car want to hold on to it forever, even though it is not possible. And those who do not have Maruti Swift can now easily rent it for road trips and have an incredible driving experience. The reason you must rent a Swift for your next vacation is that first, it is a sturdy car; and second, even if it develops a fault while on the road, you can go to any automobile service center and have your vehicle repaired. The diesel and petrol versions of Maruti Swift are fun to drive. You can dump your luggage in the moderately-sized boot of the car, and access everything while sitting in the car. It may remind you of those good old days of your childhood when you wanted to sit in the boot and talk to your family sitting in the cabin of the car."
+    },
+    {
+      "id": 7,
+      "carName": "Jeep Wrangler",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54437/2021-wrangler-exterior-right-front-three-quarter.jpeg?q=75",
+      "price": "8480",
+      "type": "Off Road",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Jeep Wrangler is true to its heritage, combining capable features with updated design and materials to deliver a vehicle ready for the future. Available LED headlamps provide improved illumination and a striking appearance.The most-capable Jeep® Wrangler ever. Its available 32-inch tyres, stronger axle tubes, larger brakes, 4x4 systems, rugged steel skid plates, and more, add up for you to take your Jeep® Wrangler further than you ever thought possible."
+    },
+    {
+      "id": 8,
+      "carName": "MG Gloster",
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/129689/gloster-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "11480",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "You can buy the Gloster in four monotone shades: Warm White, Metal Ash, Metal Black and Deep Golden. Seating Capacity: MG offers its regular variants in seven- and eight-seater configurations, and the new Black Storm edition comes in six- and seven-seater layouts.Engine and Transmission: MG has put two diesel engines on offer: a 2-litre turbo (161PS/373.5Nm) and a 2-litre twin-turbo (215.5PS/478.5Nm). Both engines are paired with an eight-speed automatic transmission. The former is a two-wheel drive and the latter comes with a four-wheel drive setup. The Black Storm edition gets 7 drive modes: Snow, Mud, Sand, Eco, Sport, Normal and Rock.Features: Features on board the Gloster include a 12.3-inch infotainment system with Android Auto and Apple CarPlay, a dual-pane panoramic sunroof, a 12-way adjustable driver seat, wireless phone charging, and a PM 2.5 air filter. Other amenities include 19-inch alloy wheels, a hands-free tailgate, rain-sensing wipers, and paddle shifters."
+    },
+    {
+      "id": 9,
+      "carName": "Ford Endeavour",
+      "image": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1652949250.jpg?w=750&q=60",
+      "price": "10080",
+      "type": "SUV",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "The Ford Endeavour has 1 Diesel Engine on offer. The Diesel engine is 1996 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Endeavour has a mileage of 12.4 to 13.9 kmpl . The Endeavour is a 7 seater 4 cylinder car and has length of 4903mm, width of 1869mm and a wheelbase of 2850mm."
+    }
+  ],
+  "kolkata": [
+    {
+      "id": 1,
+      "carName": "MG Gloster",
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/129689/gloster-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "11480",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "You can buy the Gloster in four monotone shades: Warm White, Metal Ash, Metal Black and Deep Golden. Seating Capacity: MG offers its regular variants in seven- and eight-seater configurations, and the new Black Storm edition comes in six- and seven-seater layouts.Engine and Transmission: MG has put two diesel engines on offer: a 2-litre turbo (161PS/373.5Nm) and a 2-litre twin-turbo (215.5PS/478.5Nm). Both engines are paired with an eight-speed automatic transmission. The former is a two-wheel drive and the latter comes with a four-wheel drive setup. The Black Storm edition gets 7 drive modes: Snow, Mud, Sand, Eco, Sport, Normal and Rock.Features: Features on board the Gloster include a 12.3-inch infotainment system with Android Auto and Apple CarPlay, a dual-pane panoramic sunroof, a 12-way adjustable driver seat, wireless phone charging, and a PM 2.5 air filter. Other amenities include 19-inch alloy wheels, a hands-free tailgate, rain-sensing wipers, and paddle shifters."
+    },
+    {
+      "id": 2,
+      "carName": "Mahindra Thar",
+      "image": "https://vehiclebaba.com/blog/wp-content/uploads/2023/02/Mahindra-Thar-price-in-nepal.png",
+      "price": "8980",
+      "type": "Off Road",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The Mahindra Thar has 2 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2184 cc and 1497 cc while the Petrol engine is 1997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Thar has a mileage of 15.2 kmpl & Ground clearance of Thar is 226mm. The Thar is a 4 seater 4 cylinder car and has length of 3985mm, width of 1855mm and a wheelbase of 2450mm."
+    },
+    {
+      "id": 3,
+      "carName": "Honda Amaze",
+      "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/45951/amaze-facelift-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+      "price": "7100",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Amaze is the superhero car for Honda, and this sub-four meter car is everything you need for a convenient road trip. The tremendous amount of headspace and legroom give a lot of room to the passengers to relax. The ergonomically designed Honda Amaze lets you access every button and comfort feature while driving. It comes with features like touchscreen entertainment unit, automatic climate control, steering mounted controls, cruise control, audio controls, and a powerful AC. The boot space is undoubtedly helpful to store your luggage that does not disrupt your travel. The fuel efficiency of Honda Amaze is a bonus when you are on a long road trip. When it comes to the comfort of the rear passengers, most cars fail to provide luxury features. However, Honda has given attention to its passengers by offering a bottle and cup holder in the rear as well. With so many features in just one car, what else do you need to have an accomplished road trip?"
+    },
+    {
+      "id": 4,
+      "carName": "Mahindra TUV 300",
+      "image": "https://imgd-ct.aeplcdn.com/1200x900/cw/ec/39470/Mahindra-TUV300-Right-Front-Three-Quarter-155763.jpg?wm=0&q=75",
+      "price": "9230",
+      "type": "TUV",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "7",
+      "description": "When you want to drive a vehicle that has a rolling definition of toughness and strength, you ought to test Mahindra TUV 300 at least once on a road trip. The Indian market is full of vehicles that promise excellent driving experience, but very few cars live up to their reputation. The Mahindra TUV 300 is a car that is not easy to intimidate because it is probably the most robust SUV in the country. When you are on a long road trip, you don't like to compromise on comfort, luxury, and safety; it is unlike going to a market to fetch groceries. With features like steering mounted controls, power windows, electrically adjustable mirrors, rear wiper, and rear AC vent, every passenger in the car can travel with immense comfort."
+    },
+    {
+      "id": 5,
+      "carName": "BMW 520D 2016",
+      "image": "https://imgd.aeplcdn.com/0x0/n/btng84a_1522157.jpg",
+      "price": "12300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "The new BMW 5 Series was launched in March, but the 520d has only just arrived; its emissions of 129 g/km CO2, together with 57.6 mpg, are class-leading for a large executive saloon.Think back a few years and no-one would have thought that a car of this size would be able to achieve almost 60 mpg. The new 520d shows how successful BMW has been in revolutionising the efficiency of its cars – without any sacrifices in the driving experience.This is in large part due to BMW rolling out its EfficientDynamics technology on all of its models. The BMW 520d, which shares a new engine with the 320d EfficientDynamics , is the first 5 Series to come with Auto Start-Stop, which reduces the engine idle period when coming to a short stop. Brake Energy Regeneration, which recharges the vehicle’s battery during engine over-run, is part of the standard specification for all 5 Series saloons."
+    },
+    {
+      "id": 6,
+      "carName": "Maruti Swift",
+      "image": "https://static.autox.com/uploads/2021/02/Maruti-Suzuki-Swift-Image-7-.jpg",
+      "price": "6480",
+      "type": "Economy",
+      "transmission": "Manual",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "description": "Why do people still prefer Maruti Swift over other cars? Ask yourself, and you will find that this car has created a positive reputation for itself since the time it was launched in India. People who own this car want to hold on to it forever, even though it is not possible. And those who do not have Maruti Swift can now easily rent it for road trips and have an incredible driving experience. The reason you must rent a Swift for your next vacation is that first, it is a sturdy car; and second, even if it develops a fault while on the road, you can go to any automobile service center and have your vehicle repaired. The diesel and petrol versions of Maruti Swift are fun to drive. You can dump your luggage in the moderately-sized boot of the car, and access everything while sitting in the car. It may remind you of those good old days of your childhood when you wanted to sit in the boot and talk to your family sitting in the cabin of the car."
+    }
+  ],
+  "data": [
+    {
+      "name": "umesh",
+      "phno": "8110045293",
+      "email": "uyadhav7@gmail.com",
+      "pickDate": "2023-07-30",
+      "dropDate": "2023-08-05",
+      "city": "Kolkata",
+      "bookingID": "8347",
+      "bookedDate": "2023-07-28T21:44:05.068Z",
+      "id": 1010
+    },
+    {
+      "name": "ajju",
+      "phno": "0987654321",
+      "email": "ajjuf1@gamil.com",
+      "pickDate": "2023-07-29",
+      "dropDate": "2023-07-30",
+      "city": "Mumbai",
+      "bookingID": "5642",
+      "bookedDate": "2023-07-29T03:52:46.617Z",
+      "id": 1011
+    }
+  ],
+  "cancellation": [
+    {
+      "bookingID": "6399",
+      "name": "Umesh",
+      "email": "umesh@gmail.com",
+      "pickUpDate": "2023-07-29",
+      "todayDate": "2023-07-28T15:08:35.129Z",
+      "id": 2
+    },
+    {
+      "bookingID": "9898",
+      "name": "umesh",
+      "email": "uyadhav7@gmail.com",
+      "pickUpDate": "2023-07-28",
+      "todayDate": "2023-07-28T13:51:31.393Z",
+      "id": 3
+    },
+    {
+      "bookingID": "4583",
+      "name": "Ragavan R",
+      "email": "ragavanragavan4753@gmail.com",
+      "pickUpDate": "2023-07-29",
+      "todayDate": "2023-07-28T17:08:08.909Z",
+      "id": 4
+    },
+    {
+      "bookingID": "7996",
+      "name": "Umesh",
+      "email": "uyadhav7@gmail.com",
+      "pickUpDate": "2023-07-28",
+      "todayDate": "2023-07-28T20:48:10.549Z",
+      "id": 5
+    },
+    {
+      "bookingID": "2912",
+      "name": "umesh",
+      "email": "uyadhav7@gmail.com",
+      "pickUpDate": "2023-07-29",
+      "todayDate": "2023-07-29T04:00:55.942Z",
+      "id": 6
+    }
+  ],
+  "login": [
+    {
+      "role": "Admin",
+      "email": "admin@gmail.com",
+      "pass": "admin1234",
+      "id": 1
+    }
+  ],
+  "hostRegister": [
+    {
+      "id": 1,
+      "name": "Umesh",
+      "phno": 8110045923,
+      "email": "umesh@gmail.com",
+      "city": "Mumbai",
+      "password": "umesh1234",
+      "custID": 1112
+    },
+    {
+      "name": "ravi shankar",
+      "phno": "7098765412",
+      "city": "chennai",
+      "email": "ragavanragavan4753@gmail.com",
+      "password": "1234567",
+      "custID": "0770",
+      "id": 4
+    },
+    {
+      "name": "Umesh O",
+      "phno": "8110045293",
+      "city": "Chennai",
+      "email": "uyadhav2001@gmail.com",
+      "password": "umesh2001",
+      "custID": "0861",
+      "id": 6
+    },
+    {
+      "name": "ajju",
+      "phno": "0987654321",
+      "city": "Kolkata",
+      "email": "ajjuf1@gmail.com",
+      "password": "ajju1234",
+      "custID": "3197",
+      "id": 8
+    },
+    {
+      "name": "umesh",
+      "phno": "987654321",
+      "city": "mumbai",
+      "email": "uyadhav7@gmail.com",
+      "password": "umesh2209",
+      "custID": "8684",
+      "id": 9
+    }
+  ],
+  "hostCarList": [
+    {
+      "carName": "BMW 520D 2016",
+      "carno": "MH-A-1",
+      "image": "https://imgd.aeplcdn.com/0x0/n/btng84a_1522157.jpg",
+      "price": "12300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "city": "Mumbai",
+      "custId": 1111
+    }
+  ],
+  "carListHost": [
+    {
+      "carName": "BMW 520D 2016",
+      "carno": "MH-A-1",
+      "image": "https://imgd.aeplcdn.com/0x0/n/btng84a_1522157.jpg",
+      "price": "12300",
+      "type": "Super Premium",
+      "transmission": "Automatic",
+      "fuel": "Disel",
+      "baggage": "2",
+      "seater": "5",
+      "city": "Mumbai",
+      "id": 1,
+      "custId": "7277"
+    },
+    {
+      "carName": "honda",
+      "email": "ragavanragavan4753@gmail.com",
+      "price": "1112",
+      "carno": "Tn31ac1324",
+      "city": "Chennai",
+      "type": "SUV",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "seater": "5",
+      "baggage": "3",
+      "image": "data:image/jpeg;base64,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",
+      "custId": "1211",
+      "id": 2
+    },
+    {
+      "carName": "Audi",
+      "email": "uyadhav7@gmail.com",
+      "price": "9880",
+      "carno": "TN-B010",
+      "city": "Chennai",
+      "type": "premium",
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "seater": "5",
+      "baggage": "2",
+      "image": "https://imgd.aeplcdn.com/664x374/cw/ec/31252/Audi-A5-Right-Front-Three-Quarter-165509.jpg?wm=0&q=75",
+      "custId": "7777",
+      "id": 4
+    },
+    {
+      "carName": "Audi",
+      "email": "uyadhav7@gmail.com",
+      "price": "8990",
+      "carno": "TN - 01 -A001",
+      "city": "chennai",
+      "type": "premium",
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "seater": "5",
+      "baggage": "2",
+      "image": "https://imgd.aeplcdn.com/664x374/cw/ec/31252/Audi-A5-Right-Front-Three-Quarter-165509.jpg?wm=0&q=75",
+      "custId": "8684",
+      "id": 5
+    }
+  ]
+}

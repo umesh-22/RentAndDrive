@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rent and Drive</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+    crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+</head>
+
+<body>
+
+<!-- <form class="row g-3" [formGroup]="cancelForm" (ngSubmit)="cancelBooking()">
+   
+    <div class="col-9">
+      <label for="inputAddress" class="form-label">Booking ID</label>
+      <input type="text" class="form-control" id="inputAddress" placeholder="Enter your Booking ID" formControlName="bookingID">
+    </div>
+    <div class="col-9">
+      <label for="inputAddress" class="form-label">Name</label>
+      <input type="text" class="form-control" id="inputAddress" placeholder="Enter your Booking ID" formControlName="name">
+    </div>
+    <div class="col-9">
+      <label for="inputAddress" class="form-label">Email</label>
+      <input type="email" class="form-control" id="inputAddress" placeholder="Enter your Booking ID" formControlName="email">
+    </div>
+    <div class="col-md-4">
+        <label for="inputEmail4" class="form-label">Date you Booked </label>
+        <input type="date" class="form-control" id="inputEmail4" formControlName="pickUpDate">
+      </div> -->
+      <!-- <div class="col-md-4">
+        <label for="inputPassword4" class="form-label">Drop Date</label>
+        <input type="date" class="form-control" id="inputPassword4" formControlName="dropDate">
+      </div> -->
+    
+    <!-- <div class="col-12">
+      <button type="submit" class="btn btn-primary">Cancel</button>
+    </div>
+  </form> -->
+  <div id="home-container-1" class="container">
+
+    <div class="row">
+        <div class="col-sm-7" id="home-container-1-id-1">
+            <div>
+                <div class="guarentee-img">
+                     
+                  <img  src="https://www.mychoize.com/mychoize-live/current/revamap_img/Easy_Cancellation.png">
+                  <h4>Easy Cancellation </h4>
+              </div>
+                <p>
+                  Change of plans made easy with SpeedyWheels. Enjoy the flexibility to cancel your rental car reservation with just a few clicks</p>
+            </div>
+
+
+
+
+        </div>
+        <div class="col-sm-5" id="formbg">
+            <form [formGroup]="cancelForm" (ngSubmit)="cancelBooking()">
+                <h3>Cancel Booking</h3>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Booking ID</label>
+                  <input type="text" class="form-control" id="inputAddress" placeholder="Enter your Booking ID" formControlName="bookingID">
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Name</label>
+                  <input type="text" class="form-control" id="inputAddress" placeholder="Enter your Name" formControlName="name">
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Email</label>
+                  <input type="email" class="form-control" id="inputAddress" placeholder="Enter your Email" formControlName="email">
+                </div>
+                <div class="col-md-12">
+                    <label for="inputEmail4" class="form-label">Date you Booked </label>
+                    <input type="date" class="form-control" id="inputEmail4" formControlName="pickUpDate">
+                  </div>
+                  <!-- <div class="col-md-4">
+                    <label for="inputPassword4" class="form-label">Drop Date</label>
+                    <input type="date" class="form-control" id="inputPassword4" formControlName="dropDate">
+                  </div> -->
+                
+                <div class="col-12">
+                  <button type="submit" class="btn btn-primary">Cancel</button>
+                </div>
+
+                  
+            </form>
+        </div>
+    </div>
+
+
+</div>
+  
+  </body>
+  </html>

@@ -1,0 +1,125 @@
+ 
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 26px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 18px;
+}
+
+ .addCar{
+  padding: 30px;
+   margin-top: 40px;
+  text-align: center;
+  background-color: rgb(68, 169, 187);
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {background-color: rgb(104, 187, 187);}
+  25%  {background-color: rgb(157, 201, 204);}
+  50%  {background-color: rgb(20, 166, 177);}
+  100% {background-color: rgb(183, 238, 238);font-size: 40px;}
+}
+.header1 {
+  height: 80px;
+  width: 100%;
+  background-color: aqua;
+  
+}
+
+.header1 button {
+  font-size: 22px;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  position: relative;
+  margin: -50px -50px;
+  left: 80%;
+  top: 30%;
+   
+}
+
+input[type=text],
+input[type=email],
+input[type=date],
+select {
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+#formbg {
+  background-color: rgb(208, 216, 221);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#home-container-1 {
+  margin-top: 30px;
+}
+
+
+.naviBar {
+  height: 89px;
+  background-color: aquamarine;
+}
+
+#span-1 {
+  color: rgb(27, 161, 250);
+  font-size: 30px;
+}
+
+#home-container-1-id-1 {
+  padding: 20px;
+}
+
+#home-container-1-id-1 p {
+  font-size: 18px;
+  color: rgb(129, 132, 134);
+}
+
+
+
+#home-container-1-id-1 .guarentee-container p {
+  color: rgb(15, 101, 158);
+  font-weight: bold;
+}
+
+#home-container-1-id-1 .guarentee-container {
+  display: flex;
+}
+
+#home-container-1-id-1 .guarentee-container div {
+  margin: 15px;
+}
+
+.guarentee-container .guarentee-container-1 p {
+
+  text-align: center;
+}
+
+label{
+  font-weight: bold;
+}
+
+
+.btm{
+  margin-top: 50px;
+  padding: 40px;
+  height:auto;
+  background-color: rgb(78, 78, 77);
+  color: rgb(211, 208, 208);
+}

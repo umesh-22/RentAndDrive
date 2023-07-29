@@ -1,0 +1,32 @@
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 26px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 18px;
+}
+.btm{
+    margin-top: 40px;
+    padding: 40px;
+    height:auto;
+    background-color: rgb(53, 53, 52);
+    color: rgb(211, 208, 208);
+}
+.contactcnt{
+    margin-top: 40px;
+    font-size: 18px;
+}
+.fmsection{
+    margin-top: 40px;
+}

@@ -1,0 +1,282 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Item List</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="formcnt">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+
+                    <div class="host-cnt-1">
+                        <h2>Attach Your Car &<br><span style="color: steelblue; font-size: 36px;"> Earn More Money!!</span> </h2>
+                        <div class="row" id="points">
+                            <div class="col-sm-6">
+                                
+                                <p> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                                    <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+                                    <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+                                  </svg>  Effortless Earnings</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                                    <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+                                    <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+                                  </svg> Same Day Cash Payment</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                                    <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+                                    <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+                                  </svg> Flexible Operating Hours</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                                    <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+                                    <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+                                  </svg> Transparent Processes</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cntBtn">
+                        <button> Call us for more Clarification</button>
+                    </div>
+
+                </div>
+                <div class="col-sm-6">
+                    <div class="register-form">
+                        <form  [formGroup]="registerForm" (ngSubmit)="register()" >
+                            <h2>Host Register</h2>
+                            <div class="row mb-3">
+                              <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
+                              <div class="col-sm-12">
+                                <input type="text" class="form-control" id="inputEmail3" formControlName="name" placeholder="Enter Your Full Name">
+                              </div>
+                            </div>
+                            <div class="row mb-3">
+                              <label for="inputEmail3" class="col-sm-2 col-form-label">Phone</label>
+                              <div class="col-sm-12">
+                                <input type="text" class="form-control" id="inputEmail3" formControlName="phno" placeholder="+91 ">
+                              </div>
+                            </div>
+                            <div class="row mb-3">
+                              <label for="inputEmail3" class="col-sm-2 col-form-label">City</label>
+                              <div class="col-sm-12">
+                                <input type="text" class="form-control" id="inputEmail3" formControlName="city" placeholder="Bangalore / Chennai / Mumbai">
+                              </div>
+                            </div>
+                            <div class="row mb-3">
+                              <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+                              <div class="col-sm-12">
+                                <input type="email" class="form-control" id="inputEmail3" formControlName="email" placeholder="Enter Your Email ID">
+                              </div>
+                            </div>
+                            <div class="row mb-3">
+                              <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+                              <div class="col-sm-12">
+                                <input type="password" class="form-control" id="inputPassword3" formControlName="password" placeholder="Enter password">
+                              </div>
+                            </div>
+                           
+                            
+                            <button type="submit" class="btn btn-primary" >Register</button>
+                            
+                            <div class="sign-txt">Already a Member? <button mat-raised-button color="warn"  > 
+                                <a routerLink="/hostlogin">Login now</a>
+                            </button>
+                               </div>
+
+                        </form>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="whole-contain-2">
+        <div class="row">
+            <div class="col-sm-6" id="contain-2">
+                <h2>
+                    Earn Extra Money By Sharing Your Car With<span style="color: steelblue;"> Speedy Wheels</span>
+                </h2>
+                <p>
+                    OnTrot emerges as the leading whiteboard car attachment company in Chennai. Whether you own a car or
+                    simply love to travel, OnTrot offers you a remarkable opportunity to link any brand vehicle and
+                    build your business. With OnTrot, car owners and avid travelers can come together and embark on an
+                    unforgettable journey.
+
+                    Have you ever wished to turn your idle car into a source of income? Look no further, as OnTrot
+                    brings you an innovative solution to maximize the potential of your vehicle. With our car attachment
+                    services in Chennai, you can effortlessly earn extra money while your car sits idle. OnTrot
+                    understands the changing dynamics of the modern world, where shared mobility is gaining popularity.
+                </p>
+                <div class="earnBtn">
+                    <button> Start Earning!</button>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="imgCar">
+                    <img
+                        src="https://yandex-images.clstorage.net/NuZB54117/799b543BFV7/uPKUs1u8kCp91J6QQOR-SSNNytwDW_heLJ1p3GIIJSAlYPovWmznkqHND2qSkl_UXDT6PR5SENfnRwnRcEJAqi3iR7WcL1KqPdRd0gYmP4vhTgjdBlo4yDlF50EqAHz-PP9l8AX_McU12RyvU9Fdjkfx4ffam5Ue7lMfxm3b1Lu6MtH6U-OSLztGm1DKpvYC-wKG0lVb7llrxyDF5oy3Nr38bnmE_fuIstKWt1ob1ATFIGe33hVVnG8RGMIlF19zezxUdFeu2i34A57Rw646B_nDSdLRXW5XY4gtCKLJtva1dKd5i_9yDTdTU7cYV5_MCa0vN5cSVJ0l1tlM7Z7U9Tb80PYbI5hi9cacUsUgfoQyz4ldWdFmlK4C5A8sQbA4cvYqvESx_YY8U1u6UJncz8Jj7rLakdwb6V_XB6lcGTZ-vhR9G-tQbnLL2VJN7voLO86P057Z7tlohyOKrkz6dHG8bbEM-_KEvFjeutnZm0BAZG3wUZJa1W4RnMEt0tV38XbUMx0l2u30jZUciOezQvhCD5cQ3KvVoc-hzW-Lt7c5cS44RzGzxndbFzdfFJeDi-mjeldS3doiUhcEoJ0VeHJ0GPoT7RZtPM0V1gIj8kp2j0ia0dtlmClJpQ3hQHj9snbnes778434E5u30B9Wg8qhZbTV3xmX718cjGHalPr89F8-1WIab3nM1NkKLTMLts6IHVSaa91rwW0JIYU__3ZwYDeF9fECtlFctRAW2wNL7Sf1XxJT1uVfUw9tHZE4ODYYvRuqHi70BNVdzuszg_vKDh1dFGPeY8jsSKgB-TT1NWdxBTM4A32S0fgTklJKBaTvvlZaHVvj0xiM7duZ_b39lnsSJlPmsMqYUE1mf8v9xELUVJXkUKyLYwqvzHm4fLRo8464PwIwWx98GBIfic2srjAb1ZzSZZ9bzynUFPX0dlp0nCPXbzQG3pSI4fwGc0bIUljVJFluCGFCow">
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div>
+
+        <div class="container-fluid" id="container-2">
+            <h3>Share, Earn, Enjoy !</h3>
+            <h1>Steps To Share & Earn </h1>
+
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-sm-3">
+                        <div class="instrucCard">
+                            <h2>Apply</h2>
+                            <p>Submit your car attachment application</p>
+                        </div>
+
+
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="instrucCard">
+                            <h2>Activate</h2>
+                            <p>Get on the fast track to
+                                activation Account</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="instrucCard">
+                            <h2>Earn</h2>
+                            <p>Watch your earnings grow passively</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="instrucCard">
+                            <h2>Enjoy</h2>
+                            <p>Reap the rewards of a profitable partnership</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container" id="container-3">
+        <div class="row">
+
+            <div class="col-sm-6">
+                <h3>Reliable Car Attachment Services in Chennai For Easy Earnings</h3>
+                <p>For car owners seeking to capitalize on their investment, OnTrot provides an enticing platform to
+                    connect with potential customers to attach your car in Chennai. By joining our extensive network,
+                    you open doors to a world of opportunities. As a trusted partner, OnTrot empowers you to monetize
+                    your vehicle while maintaining complete control over its usage. With our innovative technology and
+                    wide reach, you can unlock the true potential of your car and turn it into a lucrative business
+                    asset.</p>
+                <i class="fa-brands fa-font-awesome"></i>
+                <h6> Maximize Earnings</h6>
+                <i class="fa-brands fa-font-awesome"></i>
+                <h6> Safe and Secure Ride</h6>
+                <i class="fa-brands fa-font-awesome"></i>
+                <h6> Track Your Car</h6>
+                <i class="fa-brands fa-font-awesome"></i>
+                <h6>Quick Car Attachment</h6>
+                <i class="fa-brands fa-font-awesome"></i>
+                <h6> 24/7 Customer Support</h6>
+                <div class="earnBtn">
+                    <button> Attach Your Car ></button>
+                </div>
+
+            </div>
+            <div class="col-sm-6">
+                <div class="img">
+                    <img src="https://static.toiimg.com/thumb/msid-76545178,width-400,resizemode-4/76545178.jpg">
+                    <img
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5noWbBH6mUlZLP78l8kQNwq9HFZBVXPawqoH5wCSfNGmYrC9bdQBrCpEbt-WjiixAvR4&usqp=CAU">
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container" id="container-4">
+        <img src="https://cimg3.ibsrv.net/ibimg/hgm/2000x1125-1/100/340/2012-honda-civic-hybrid_100340979.jpg">
+    </div>
+
+
+    <div class="container" id="container-5">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Why Share Your Car With Us?</h2>
+                <p>Join the OnTrot today and witness the transformative power of one way car
+                    attachment services. Whether you’re a car owner looking to maximize your
+                    investment by your car attachment in Chennai or a passionate traveler seeking
+                    unforgettable experiences, OnTrot is your ultimate destination. Our unwavering
+                    dedication to quality, reliability, and customer satisfaction sets us
+                    apart as the best one way car attachment service in Chennai.
+                    In addition, we provide car attachment services for travels, aiming
+                    to establish long-term service relationships and maximize benefits.
+                    Our car attachment service stands out with its unique set of features.</p>
+            </div>
+            <div class="col-sm-6">
+                <div class="cnt">
+
+
+                    <h2><span style="color: rgb(180, 194, 206);"> Efficient Workflow</span></h2>
+                    <h2><span style="color: rgb(141, 175, 202);">Profitable Income</span> </h2>
+                    <h2><span style="color: rgb(114, 163, 202);"> Hassle-Free Billing</span></h2>
+                    <h2><span style="color: rgb(43, 135, 209);">Delighted Customers</span> </h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="btm">
+               
+                 
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6" id="iframeCnt">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4012924.123838464!2d78.28976490000001!3d10.821166349999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1689336731348!5m2!1sen!2sin"
+                        width="90%" height="250px" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <div class="col-sm-6">
+                    <h4>Contact no :93209304904</h4>
+                    <h4>Address :</h4>
+                    <p>765,first street,<br>
+                        4th avenue,<br>
+                        four roads-693220 </p>
+                    <p>Include an email and phone number so visitors can get in touch
+                        with you on their first attempt. Include a short form using
+                        fields that'll help your business understand who's contacting
+                        them. Have a call-to-action to provide visitors with another action
+                        to take if they choose not to complete the form.</p>
+                </div>
+            </div>
+
+        </div>
+           
+        </div>
+        <p class="text-center">&copy;CopyRights All Rights Reserved by SpeedyWheels.</p>
+
+</body>
+
+</html>

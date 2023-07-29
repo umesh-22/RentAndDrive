@@ -1,0 +1,94 @@
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 26px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 18px;
+}
+.card{
+    float: left;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.btn{
+    margin-left: 170px;
+}
+
+ul{
+    list-style: none;
+   
+}
+
+
+.outset{
+    
+    padding: 5px;
+    margin-right: 250px;
+    border: 2px solid steelblue ;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    
+}
+.outset:hover{
+    background-color: steelblue;
+    color: white;
+}
+.card-header{
+    color: steelblue;
+}
+.modal-header{
+    background-color: steelblue;
+    color: white;
+
+}
+.link-info{
+    text-decoration:none;
+}
+
+
+form{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+#btn{
+    margin-left: 300px;
+}
+
+.btm{
+    margin-top: 40px;
+    padding: 40px;
+    height:auto;
+    background-color: rgb(53, 53, 52);
+    color: rgb(211, 208, 208);
+}
+.contactcnt{
+    margin-top: 40px;
+    font-size: 18px;
+}
+.fmsection{
+    margin-top: 40px;
+}
+.span1{
+    color: steelblue;
+    text-transform: uppercase;
+}
+h1{
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+    font-size: 32px;
+}

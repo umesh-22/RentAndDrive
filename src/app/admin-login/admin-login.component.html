@@ -1,0 +1,95 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rent and Drive</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+    crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+</head>
+
+<body>
+<!-- 
+<div class="card">
+    <div class="card-header">
+     <h2 class="text-center"> Login</h2>
+    </div>
+    <div class="card-body">
+
+        <form [formGroup]="loginForm" (ngSubmit)="login( )">
+            <div class="row mb-3">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+              <div class="col-sm-7">
+                <input type="email" class="form-control" id="inputEmail3" formControlName="email">
+              </div>
+            </div>
+            <div class="row mb-3">
+              <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+              <div class="col-sm-7">
+                <input type="password" class="form-control" id="inputPassword3" formControlName="pass">
+              </div>
+            </div>
+           
+            
+            <button type="submit" class="btn btn-primary" [disabled]="!loginForm.valid">Login</button>
+          </form>
+      
+     
+    </div>
+  </div> -->
+  <div class="bg">
+ <div id="home-container-1" class="container">
+
+    <div class="row">
+        <div class="col-sm-6" id="home-container-1-id-1">
+            <div>
+                <div class="guarentee-img">
+                     
+                  <img  src="https://static.thenounproject.com/png/371299-200.png">
+                  <h4>Admin Page</h4>
+              </div>
+                <p>Only for Admin access. Not for any Users or Hosts</p>
+            </div>
+
+
+
+
+        </div>
+        <div class="col-sm-6" id="formbg">
+            <form [formGroup]="loginForm" (ngSubmit)="login( )">
+                <h2>Admin Login</h2>
+                <div class="row mb-3">
+                  <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+                  <div class="col-sm-12">
+                    <input type="email" class="form-control" id="inputEmail3" formControlName="email" placeholder="Enter Admin Email ID">
+                  </div>
+                </div>
+                <div class="row mb-3">
+                  <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+                  <div class="col-sm-12">
+                    <input type="password" class="form-control" id="inputPassword3" formControlName="pass" placeholder="Enter Admin Password">
+                  </div>
+                </div>
+               
+                
+                <button type="submit" class="btn btn-primary" [disabled]="!loginForm.valid">Login</button>
+            </form>
+        </div>
+    </div>
+
+
+</div>
+
+  </div>
+ 
+</body>
+
+</html>
+

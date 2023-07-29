@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rent and Drive</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+    crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div class="text">
+        <h1 class="text-center"> Host's Car Details</h1>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <input type="text" class="form-control" [(ngModel)]="filterString" placeholder="Search here" id="">
+        </div>
+      </div>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+           
+            <th>Host ID</th>
+            <th>Car Name</th>
+            <th>Plate_No</th>
+            <th>Car Type</th>
+            <th>Car cost (perday)</th>
+            <th>Transmission</th>
+            
+            <th>Fuel</th>
+            <th>Baggage</th>
+            <th>Seats</th>
+            <th>Car image</th>
+            <th>City</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let user of lists | filter:filterString ">
+        
+              <td>{{user.custId}}</td>
+              <td>{{user.carName | titlecase}}</td>
+              <td>{{user.carno}}</td>
+              <td>{{user.type | titlecase}}</td>
+              <td>{{user.price}}</td>
+              <td>{{user.transmission | titlecase}} </td>
+              <td>{{user.fuel | titlecase}} </td>
+              <td>{{user.baggage}} </td>
+              <td>{{user.seater}} </td>
+              <td><img src={{user.image}} height="100px" width="150px" alt=""> </td>
+            
+              <td>{{user.city}}</td>
+              <td><button type="button" class="btn btn-danger" (click)="delete(user.id)">Delete Car</button></td>
+          </tr>
+        </tbody>
+      </table>
+      </body>
+      </html>
+

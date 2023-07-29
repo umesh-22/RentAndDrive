@@ -1,0 +1,53 @@
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 26px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 18px;
+}
+body{
+  background-image: url("https://kartinkin.net/uploads/posts/2022-12/1672123746_kartinkin-net-p-romb-kartinka-dlya-detei-oboi-35.jpg");
+ 
+}
+ 
+input[type='text'],
+input[type='email'],
+textarea {
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+ 
+form {
+    background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  width: 40%;
+  height: auto;
+  padding: 2rem;
+  border-radius: 5rem;
+  border: 1px solid hsl(0, 1%, 45%);
+  display: grid;
+  margin: auto; 
+}
+
+@media (max-width: 750px){
+  form{
+    width: 90%;
+  }
+}
