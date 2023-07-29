@@ -62,10 +62,7 @@ openScrollableContent(content:any) {
 
   async addCar(){
   
-   
-    
-      
-  this.admin.addHostCar(this.addForm.value).subscribe(async res=>{
+   if(this.addForm.valid){ this.admin.addHostCar(this.addForm.value).subscribe(async res=>{
       this.tostr.success('Car Added Successfully', 'Login', {
         timeOut: 1000,
       })
@@ -85,7 +82,10 @@ openScrollableContent(content:any) {
       
     }
   )
-  
+   }
+   else{
+    this.tostr.error('Invalid inputs' ,'Invalid')
+   }
     
   
   

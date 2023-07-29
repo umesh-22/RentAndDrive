@@ -697,21 +697,6 @@
     {
       "carName": "Audi",
       "email": "uyadhav7@gmail.com",
-      "price": "9880",
-      "carno": "TN-B010",
-      "city": "Chennai",
-      "type": "premium",
-      "transmission": "automatic",
-      "fuel": "petrol",
-      "seater": "5",
-      "baggage": "2",
-      "image": "https://imgd.aeplcdn.com/664x374/cw/ec/31252/Audi-A5-Right-Front-Three-Quarter-165509.jpg?wm=0&q=75",
-      "custId": "7777",
-      "id": 4
-    },
-    {
-      "carName": "Audi",
-      "email": "uyadhav7@gmail.com",
       "price": "8990",
       "carno": "TN - 01 -A001",
       "city": "chennai",
